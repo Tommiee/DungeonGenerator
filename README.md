@@ -17,8 +17,8 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | opzetten grid systeem | library opzetten | in grid systeem rooms kiezen + expanden |
-|week 2 | pathing van room naar room |
+|week 1 | opzetten grid systeem | <- | library opzetten | in grid systeem rooms kiezen | rooms expanden |
+|week 2 | pathing van room naar room | <- | <- + README schrijven |
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
